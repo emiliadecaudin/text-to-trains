@@ -1,0 +1,10 @@
+{
+  "name": "text-to-trains",
+  "version": "1.0.0",
+  "description": "Converts text to MTA approved train-speak.",
+  "main": "bot.js",
+  "author": "Emilia Decaudin",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}

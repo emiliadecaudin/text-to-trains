@@ -62,6 +62,12 @@ client.on('message', message => {
 				case 'g':
 					editedMessage += '<:g_train:646405114273333287>';
 					break;
+				case 'H':
+					editedMessage += '<:h_train:692629901387497532>';
+					break;
+				case 'h':
+					editedMessage += '<:h_train:692629901387497532>';
+					break;
 				case 'J':
 					editedMessage += '<:j_train:646405115900854274>';
 					break;
